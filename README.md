@@ -75,14 +75,7 @@
 </head>
 <body>
 <header>
-    <div class="logo">📚 Book Review</div>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">Category</a>
-        <a href="#">Contact</a>
-        <a href="#">Add to Cart 🛒</a>
-    </nav>
-    <div class="clock" id="clock"></div>
+ 
 </header>
 
 <main>
